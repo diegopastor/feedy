@@ -2,7 +2,7 @@
 
 Pay to send surveys to a list of emails and collect feedback from yes/no questions. 
 
-#How to run development version: 
+# How to run development version: 
 
 ### 1. Clone Repository
 
